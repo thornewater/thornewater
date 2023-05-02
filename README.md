@@ -1,5 +1,15 @@
 ### Hi there 👋
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thornewater)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+🔭 I’m currently working on ...
+<br>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thornewater)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+
+🌱 I’m currently learning ...
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thornewater&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **thornewater/thornewater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
