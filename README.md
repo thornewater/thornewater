@@ -9,11 +9,11 @@
 
 🌱 I’m currently learning ...
 <br>
-
+<!--START_SECTION:waka-->
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thornewater&layout=compact&theme=radical&show_icons=true)
 
 <br>
-<!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-270%20hrs%2047%20mins-blue)
 
 **저는 아침형 인간이에요. 🐤** 
