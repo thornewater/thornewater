@@ -20,4 +20,9 @@ jobs:
           SHOW_OS: false
           SHOW_PROFILE_VIEWS: false
           DEBUG_LOGGING: false
+          SHOW_SHORT_INFO: false
+          SHOW_DAYS_OF_WEEK: false
+          SHOW_COMMIT: false
+          SHOW_LOC_CHART: false
+
           
