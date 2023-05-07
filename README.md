@@ -4,18 +4,21 @@
 
 
 ### Hi there 👋
-<br>
-🔭 I’m currently working on ...
+
+<div align="center">
+   <p display="inline">
+    <a href="https://github.com/thornewater">
+     <img height="180" src="https://github-readme-stats.vercel.app/api?username=thornewater&theme=radical&show_icons=true" />
+     <img width="386" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thornewater&layout=compact&theme=radical&show_icons=true" />
+    </a>
+  </p>
+
+
+
+
+
 <br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=thornewater&theme=radical&show_icons=true)
-
-<br>
-
-🌱 I’m currently learning ...
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thornewater&layout=compact&theme=radical&show_icons=true)
-<br>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-276%20hrs%2021%20mins-blue)
