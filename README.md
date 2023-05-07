@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=thornewater%&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&amp;color=timeGradient&amp;height=300&amp;section=header&amp;animation=fadeIn&amp;fontSize=55&amp;fontAlignY=40&amp;text=thornewater%20Github&amp;descSize=30)
+
 <br>
 
 
