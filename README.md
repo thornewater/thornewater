@@ -21,7 +21,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-384%20hrs%2043%20mins-blue)
 
 📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
 
@@ -47,7 +47,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/06/2023 21:40:05 UTC
+ Last Updated on 28/06/2023 18:40:38 UTC
 <!--END_SECTION:waka-->
 
 
