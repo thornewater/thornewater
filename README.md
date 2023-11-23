@@ -29,7 +29,7 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               0 secs              █████████████████████████   100.00 % 
+이번 주에 활동은 없어요.
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
@@ -43,7 +43,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2023 18:37:31 UTC
+ Last Updated on 23/11/2023 18:37:28 UTC
 <!--END_SECTION:waka-->
 
 
