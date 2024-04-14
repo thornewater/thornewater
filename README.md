@@ -21,17 +21,6 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-436%20hrs%2018%20mins-blue)
-
-📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
-
-```text
-🕑︎ Timezone: Asia/Seoul
-
-💬 프로그래밍 언어들: 
-TypeScript               7 mins              █████████████████████████   100.00 % 
-```
-
 **저는 주로 TypeScript 언어를 사용해요.** 
 
 ```text
@@ -43,7 +32,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2024 18:37:20 UTC
+ Last Updated on 14/04/2024 22:57:26 UTC
 <!--END_SECTION:waka-->
 
 
