@@ -35,15 +35,15 @@
 **저는 주로 TypeScript 언어를 사용해요.** 
 
 ```text
-TypeScript               11 repos            ██████████████░░░░░░░░░░░   55.00 % 
-JavaScript               8 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+TypeScript               11 repos            ██████████████░░░░░░░░░░░   57.89 % 
+JavaScript               7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 04/05/2024 18:36:57 UTC
+ Last Updated on 05/05/2024 18:37:45 UTC
 <!--END_SECTION:waka-->
 
 
