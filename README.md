@@ -21,7 +21,9 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-423%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-424%20hrs%204%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-5%20mins-blue?style=flat)
 
 📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
 
@@ -29,13 +31,30 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-이번 주에 활동은 없어요.
+TypeScript               5 mins              ███████████████░░░░░░░░░░   59.88 % 
+JSON                     3 mins              ██████████░░░░░░░░░░░░░░░   40.12 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 5 mins (70.09%)
+
+✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
+
+🔤 860 Input Tokens, 860 Output Tokens
+
+💵 $0.02 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 688 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
@@ -49,7 +68,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/09/2026 21:33:42 UTC
+ Last Updated on 17/09/2026 21:37:20 UTC
 <!--END_SECTION:waka-->
 
 
