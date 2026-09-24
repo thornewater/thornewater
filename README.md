@@ -31,30 +31,13 @@
 🕑︎ Timezone: Asia/Seoul
 
 💬 프로그래밍 언어들: 
-TypeScript               5 mins              ███████████████░░░░░░░░░░   59.88 % 
-JSON                     3 mins              ██████████░░░░░░░░░░░░░░░   40.12 % 
+이번 주에 활동은 없어요.
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (70.09%)
-
-✍️ 0 lines written by AI, 2 lines written by hand (0.0% AI-written)
-
-🔤 860 Input Tokens, 860 Output Tokens
-
-💵 $0.02 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 5 AI Prompts
-
-Composer                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 688 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **저는 주로 TypeScript 언어를 사용해요.** 
@@ -68,7 +51,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 21:40:58 UTC
+ Last Updated on 24/09/2026 21:42:21 UTC
 <!--END_SECTION:waka-->
 
 
